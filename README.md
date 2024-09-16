@@ -19,7 +19,7 @@ This project is a Python implementation of the Caesar Cipher, a simple encryptio
 
 1. Clone this repository to your local machine.
     ```bash
-    git clone https://github.com/your-username/caesar-cipher.git
+    git clone https://github.com/raby02/PRODIGY_CS_01.git
     ```
 2. Navigate to the project directory.
     ```bash
