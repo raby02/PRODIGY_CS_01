@@ -24,7 +24,7 @@ This project is a Python implementation of the Caesar Cipher, a simple encryptio
     ```
 2. Navigate to the project directory.
     ```bash
-    cd caesar-cipher
+    cd PRODIGY_CS_01
     ```
 3. Run the Python program.
     ```bash
