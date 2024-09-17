@@ -1,4 +1,4 @@
-# PRODIGY_CS_02
+# PRODIGY_CS_01
 # Caesar Cipher Program
 
 This project is a Python implementation of the Caesar Cipher, a simple encryption technique. The program allows users to encrypt and decrypt messages by shifting the letters of the input text by a specified amount. It provides a menu-driven interface to choose between encryption, decryption, and exiting the program.
